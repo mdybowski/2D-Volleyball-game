@@ -1,0 +1,2 @@
+window_size= 1200, 650
+fps= 60
