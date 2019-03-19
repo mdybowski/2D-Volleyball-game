@@ -3,7 +3,7 @@ The simple two player game in Python using Pygame and Pymunk.
 
 ######## Instructions #########
 
-If you have installed pygame and pymunk libraries, run Volleyball.py in code folder.
+If you have installed Python on your computer and Pygame and Pymunk libraries, run Volleyball.py in code folder.
 If not, unzip Volleyball folder and run Volleyball.exe to play.
 
 Use left and right arrow keys on your keyboard to move Player 1 (Poland) and up arrow key to jump.
