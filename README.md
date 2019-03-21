@@ -9,7 +9,7 @@ If not, unzip Volleyball folder and run Volleyball.exe to play.
 Use left and right arrow keys on your keyboard to move Player 1 (Poland) and up arrow key to jump.
 Use A and D keys on your keyboard to move Player 2 (Brasil) and W key to jump.
 
-Press P to pause/resume game, V to stop/play music and ESC to quit game.
+Press P to pause/resume game, V to stop/play music or ESC to quit game.
 
 In the Settings.txt file in res folder, you can change window size and FPS value.
 
